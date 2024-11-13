@@ -1,20 +1,19 @@
 {
+  "editor.fontFamily": "'0xProto Nerd Font'",
+  "editor.fontLigatures": true,
   "editor.formatOnSave": true,
   "editor.suggest.insertMode": "replace",
-  "terminal.integrated.fontFamily": "MesloLGS NF",
+  "terminal.integrated.fontFamily": "'0xProto Nerd Font'",
   "editor.linkedEditing": true,
   "javascript.updateImportsOnFileMove.enabled": "always",
-  "window.zoomLevel": 0.5,
   "launch": {},
   "[json]": {},
   "workbench.statusBar.visible": false,
   "editor.minimap.enabled": false,
   "breadcrumbs.enabled": false,
-  "workbench.iconTheme": "material-icon-theme",
+  // "workbench.iconTheme": "material-icon-theme",
   "update.showReleaseNotes": false,
-  "workbench.activityBar.visible": false,
   "zenMode.hideLineNumbers": false,
-  "zenMode.hideTabs": false,
   "editor.lineNumbers": "relative",
 
   "vim.leader": "<Space>",
@@ -88,5 +87,6 @@
   },
   "[jsonc]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
-  }
+  },
+  "workbench.activityBar.location": "hidden"
 }
