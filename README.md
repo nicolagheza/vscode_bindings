@@ -61,7 +61,7 @@
 
 * Relative line numbers enabled
 * Format on save enabled
-* Font: 0xProto Nerd Font (editor) / MesloLGS NF (terminal)
+* Font: 0xProto Nerd Font (editor) / 0xProto Nerd Font (terminal)
 * Status bar hidden
 * Activity bar hidden
 * Minimap disabled
